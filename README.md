@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <h1>Vaijayanti Narvekar</h1>
-<h3>QA Automation Engineer| Ex- Infosys| Manual & Automation Testing </h3>
+<h3>QA Automation Engineer| Manual & Automation Testing </h3>
 <h4>Experienced QA Tester with a passion for ensuring the quality and functionality of software products. Skilled in manual and automated testing methodologies, test planning, test case design, and defect tracking.</h4>
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
