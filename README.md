@@ -9,8 +9,8 @@
 </p>
 <div align=left> 
  <ul>
-        <li>🌱 <b>I’m currently learning</b>: QA Automation skills and working on multiple real world projects.</li>
-        <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://www.crio.do/learn/portfolio/v-narvekar2704/">LINK TO MY PORTFOLIO</a>.</li>
+        <li>🌱 <b>I’m currently enhancing my</b> QA Automation skills and working on multiple real world projects.</li>
+        <li>🤔 <b>I’m currently open for</b>: A new job opportunity.</li>
         <li>😄 <b>Fun fact</b>: I love Traveling(🌍) and Listening songs.</li>
         <li>📫 <b>Reach out to me at</b>: <a href="https://www.linkedin.com/in/vaijayanti-narvekar" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vaijayanti-narvekar" /></a></li>
      
